@@ -4,7 +4,6 @@
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
   "hubot-standup-alarm",
-  "hubot-trello",
   "hubot-mute",
   "hubot-team",
   "hubot-qr",
